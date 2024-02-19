@@ -14,6 +14,7 @@
     <PackageLicenseUrl>https://github.com/Lanz86/Judge0.DotNet/blob/main/LICENSE</PackageLicenseUrl>
     <RepositoryUrl>https://github.com/Lanz86/Judge0.DotNet</RepositoryUrl>
     <PackageTags>client csharp dotnet judge0 judge0-api judge0-dotnet judge0-client</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>
