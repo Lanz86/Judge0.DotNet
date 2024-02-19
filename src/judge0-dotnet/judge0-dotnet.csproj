@@ -7,6 +7,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
     <LangVersion>12</LangVersion>
+    <Title>Judge0 Dotnet</Title>
+    <Authors>Antonio Lanzolla</Authors>
+    <Description>Client for Judj0 API written in .NET Core.</Description>
+    <PackageProjectUrl>https://github.com/Lanz86/Judge0.DotNet</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Lanz86/Judge0.DotNet/blob/main/LICENSE</PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/Lanz86/Judge0.DotNet</RepositoryUrl>
+    <PackageTags>client csharp dotnet judge0 judge0-api judge0-dotnet judge0-client</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
